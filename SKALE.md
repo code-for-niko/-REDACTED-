@@ -3,10 +3,6 @@
 
 # 3SigmaClub
 
-**who dis dude** - https://etherscan.io/address/0x3cd751e6b0078be393132286c442345e5dc49699
-
-Invested **1,5M** iN -->https://skale.network/  
-
 # SKALE ($SKL)
 
 Whitepaper - https://skale.network/whitepaper 
