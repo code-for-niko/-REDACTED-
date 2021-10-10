@@ -1,5 +1,0 @@
-# Investment_Guides
-DYOR
-
-
-
