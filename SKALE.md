@@ -15,6 +15,7 @@ Docs4Nerds - https://docs.skale.network/docs/
 
 
 # SINOPSE
+https://skale.network/ 
 
 The SKALE Network is a highly expandable multichain blockchain network that serves as a secure Ethereum scalability solution.
 
@@ -24,6 +25,7 @@ What does this mean? It means running your dApp on a scalable and fast chain pro
 
 
 # TOKEN 
+https://skale.network/token/
  SKALE is built on an innovative ERC-777 token standard which supports delegation on the token level.
 
  ERC-777 is fully backwards compatible with ERC-20, which means that it is supported by all participants of the Ethereum ecosystem with ERC-20 support. 
@@ -33,7 +35,7 @@ What does this mean? It means running your dApp on a scalable and fast chain pro
  Unlike with ERC-20, with ERC-777, a delegator no longer needs to send the token to the delegation smart contract, but instead shares with the staking provider the secure delegation key while storing the tokens in the cold or hot wallet of their choice.
  
  
- # How work sir 
+ # How work sir
  
 The SKALE Network token ($SKL), is a hybrid use token which represents the right to work in the network as a validator, stake as a delegator, or access a share of its resources by deploying and renting an Elastic Sidechain or Elastic Blockchain for a period of time as a developer.  
 
@@ -45,8 +47,21 @@ Payment method for SKALE Chain subscription fees. Developers purchase their subs
 
 Rewards for validators and delegators staking their tokens. Rewards are accumulated monthly, based on fees paid by developers for chains and a monthly inflation of tokens into the network.  
 
-Governance and voting. SKL tokens will be used for on-chain voting, which will control all economic parameters of the SKALE Network. 
- 
+Governance and voting. SKL tokens will be used for on-chain voting, which will control all economic parameters of the SKALE Network.
+
+
+# Bullish for NFT's 
+https://skale.network/blog/removing-the-weak-link-from-nft-links-with-skale/
+
+SKALE offers a unique and comprehensive solution directly within the current design and architecture of the SKALE network, which stands as the only Ethereum Native Multi-chain Network today. SKALE is Ethereum Native in that chain creation, staking, slashing, token transfers, orchestration, validator payments, chain fees, and more all happen on Ethereum. Multi-chain means that each application (or NFT issuance platform) gets its own EVM Blockchain called a SKALE Chain.
+
+A multi-chain architecture is valuable for a variety of reasons. One is that it becomes affordable to use the blockchain for more than just a shared ledger. It can also be used for other functions such as file storage, allowing each SKALE Chain to be outfitted with SKALE File Storage. SKALE File Storage allows for storage of immutable assets directly on-chain rather than needing to link elsewhere.
+
+This means that NFTs, websites, social media applications, exchanges, and other applications can all run directly on SKALE without touching a centralized database. You can mint an NFT on SKALE and maintain its provenance without reliance on a centralized service. NFTs on SKALE are then backed up by the security pool of the SKALE Network which currently has over $2B USD staked.
+
+Now let’s talk about minting cost. SKALE chains are gasless, meaning there are no fees for onchain actions. Instead of paying a fee for each use, the chain owner pays for the chain in SKL tokens over a period of time. That SKALE chain can then be used to the full extent of its compute and storage properties without extra costs. Therefore NFTs can be minted at zero cost to the artist or NFT creator. Additionally, SKALE is well suited for NFT minting, trading, and integrations to exchanges, trading hubs, and more.
+
+
 # SKALE Token on ConsenSys Activate
 
  The N.O.D.E. Foundation chose the ConsenSys Activate platform for the SKALE Network launch because of their approach to the legal and regulatory ambiguity around utility token offerings that decentralized projects face. Activate provided a token sale, staking and delegation platform for fair and distributed token launches. 
